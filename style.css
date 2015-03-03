@@ -25,6 +25,23 @@ header {
   padding: 10px;
   color: #d6eaea;
 }
+#buttons li {
+  float: center;
+  list-style: none;
+  text-align: center;
+  width: 150px;
+  line-height: 60px;
+}
+#buttons li a{
+  text-decoration: none;
+  color: #FFFFFF;
+  display: block;
+}
+#buttons li a:hover {
+  text-decoration: none;
+  color: #000000;
+  background-color: #33B5E5;
+} 
 #container {
   width: 100%;
   margin: 0px auto;
