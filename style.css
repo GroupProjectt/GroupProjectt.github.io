@@ -9,3 +9,25 @@ header {
   position: fixed;
   padding: 20px;
 }
+#banner {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 100px;
+  background: #67c0b5;
+  padding: 20px;
+}
+#content {
+  width: 100%;
+  position: relative;
+  top: 1500px;
+  background: #3e273a;
+  padding: 10px;
+  color: #d6eaea;
+}
+#container {
+  width: 100%;
+  margin: 0px auto;
+  background: #3e273a;
+  padding: 0px;
+}
