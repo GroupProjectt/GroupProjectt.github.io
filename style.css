@@ -25,6 +25,12 @@ header {
   padding: 10px;
   color: #d6eaea;
 }
+#container {
+  width: 100%;
+  margin: 0px auto;
+  background: #3e273a;
+  padding: 0px;
+}
 #buttons li {
   float: center;
   list-style: none;
@@ -42,9 +48,3 @@ header {
   color: #000000;
   background-color: #33B5E5;
 } 
-#container {
-  width: 100%;
-  margin: 0px auto;
-  background: #3e273a;
-  padding: 0px;
-}
