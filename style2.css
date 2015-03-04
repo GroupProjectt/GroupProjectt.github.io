@@ -16,7 +16,6 @@ header {
   position: fixed;
   top: 100px;
   background: url(http://i.imgur.com/SrL7eMY.jpg)
-  background-size: cover;
   padding: 20px;
 }
 #content {
