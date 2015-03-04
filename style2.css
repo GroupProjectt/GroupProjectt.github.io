@@ -34,6 +34,6 @@ header {
   background: #3e273a;
   padding: 0px;
 }
-
-div.inline { float:left; }
-.clearBoth { clear:both; }
+ul#menu li {
+  display: inline;
+}
