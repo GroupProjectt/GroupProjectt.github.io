@@ -48,3 +48,6 @@ header {
   color: #000000;
   background-color: #33B5E5;
 } 
+ul#menu li {
+  display: inline;
+}
